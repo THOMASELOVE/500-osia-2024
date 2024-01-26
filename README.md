@@ -1,6 +1,6 @@
 # 500-osia-2024
 
-## OSIA Claims That Dr. Love has approved
+## OSIA Claims That Dr. Love has approved (due 2024-02-06)
 
 1st Reader | 2nd Reader | Status |  Manuscript 
 :-----------: | :-----------: | :-----: |:-----------------------------------------------------------------------
