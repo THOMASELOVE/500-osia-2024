@@ -2,6 +2,8 @@
 
 ## Approved OSIA Claims
 
+All claims have been approved.
+
 1st Reader | 2nd Reader | Status |  Manuscript 
 :-----------: | :-----------: | :-----: |:-----------------------------------------------------------------------
 Sara Alqahtani | - | Approved | Chi S and Shanthikumar DM 2017 [Local Bias in Google Search and the Market Response around Earnings Announcements](pdf/Chi_2017.pdf) *The Accounting Review*
