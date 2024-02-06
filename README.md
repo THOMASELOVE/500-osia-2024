@@ -13,8 +13,7 @@ Aman Pande | - | Approved | Ejima M et al. 2021 [Efficacy of treatment with cort
 Justin Robinson | - | Approved | El-Hamamsy I et al. 2022 [Propensity-Matched Comparison of the Ross Procedure and Prosthetic Aortic Valve Replacement in Adults](pdf/El-Hamamsy_2022.pdf) *J Amer Coll Cardiology*
 Sam Rodgers-Melnick | - | Approved | Zeliadt SB et al. 2022 [Effectiveness of a whole health model of care emphasizing complementary and integrative health on reducing opioid use among patients with chronic pain](pdf/Zeliadt_2022.pdf), with [supplement](pdf/Zeliadt_2022_supplement.pdf) *BMC Health Services Research*
 Miza Salim Hammoud | - | Approved | Ouldali N et al. 2023 [Immunomodulatory Therapy for MIS-C](pdf/Ouldali_2023.pdf), with [supplement](pdf/Ouldali_2023_supplement.pdf) *Pediatrics*
-Akhil Sarangadharan Geetha | - | Approved | Lysyakov M and Viswanathan S 2023 [Threatened by AI: Analyzing Users' Responses to the Introduction of AI in a Crowd-
-Sourcing Platform](pdf/Lysyakov_2023.pdf) *Information Systems Research*
+Akhil Sarangadharan Geetha | - | Approved | Lysyakov M and Viswanathan S 2023 [Threatened by AI: Analyzing Users' Responses to the Introduction of AI in a Crowd-Sourcing Platform](pdf/Lysyakov_2023.pdf) *Information Systems Research*
 Sriram Satyavolu | - | Approved | Webbe JWH et al. 2022 [Outcomes in relation to early parenteral nutrition use in preterm neonates born between 30 and 33 weeks' gestation: a propensity score matched observational study](pdf/Webbe_2022.pdf) *Arch Dis Child Fetal Neonatal Ed*
 Karlo Toljan | - | Approved | Hersh C et al. 2020 [Effect of switching from natalizumab to moderate- vs high-efficacy DMT in clinical practice](pdf/Hersh_2020.pdf), with [supplement](pdf/Hersh_2020_supplement.pdf) *Neurology: Clinical Practice*
 
