@@ -5,7 +5,7 @@
 All claims have been approved.
 
 1st Reader | 2nd Reader |  Manuscript 
-:-----------: | :-----------: | :-----: |:-----------------------------------------------------------------------
+:-----------: | :-----------: | :-----------------------------------------------------------------------
 Sara Alqahtani | - | Chi S and Shanthikumar DM 2017 [Local Bias in Google Search and the Market Response around Earnings Announcements](pdf/Chi_2017.pdf) *The Accounting Review*
 Naji Ayyash | - | Ozer M et al. 2022 [A Propensity Score Analysis of Chemotherapy Use in Patients With Resectable Gallbladder Cancer](pdf/Ozer_2022.pdf) *JAMA Network Open*
 John Barron | - | Lehr CJ et al. 2020 [The impact of change in definition of increased-risk donors on survival after lung transplant](pdf/Lehr_2020.pdf), with [commentary](pdf/Lehr_2020_commentary.pdf) *J Thorac Cardiovasc Surg*
