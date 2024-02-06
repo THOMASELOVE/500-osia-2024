@@ -7,6 +7,7 @@
 Sara Alqahtani | - | Approved | Chi S and Shanthikumar DM 2017 [Local Bias in Google Search and the Market Response around Earnings Announcements](pdf/Chi_2017.pdf) *The Accounting Review*
 Naji Ayyash | - | Approved | Ozer M et al. 2022 [A Propensity Score Analysis of Chemotherapy Use in Patients With Resectable Gallbladder Cancer](pdf/Ozer_2022.pdf) *JAMA Network Open*
 Seth Bauer | - | Approved | Xu J et al. 2023 [Timing of vasopressin initiation and mortality in patients with septic shock: analysis of the MIMIC-III and MIMIC-IV databases](pdf/Xu_2023.pdf) *BMC Infectious Diseases*
+Ava Fan | - | Approved | Smolle MA et al. 2018 [Surgery for metachronous metastasis of soft tissue sarcoma - A magnitude of benefit analysis using propensity score methods](pdf/Smolle_2018.pdf), with [supplement](pdf/Smolle_2018_supplement.pdf) *European J of Surgical Oncology*
 Hala Nas | - | Approved | Wang Q et al. 2022 [Adverse Events Following Limited Resection versus Stereotactic Body Radiation Therapy for Early Stage Lung Cancer](pdf/Wang_2022.pdf) *Annals American Thoracic Society*
 Anthony Orsino | - | Approved | Gebre G et al. 2023 [Can farmers’ climate change adaptation strategies ensure their food security? Evidence from Ethiopia](pdf/Gebre_2023.pdf) *Agrekon*
 Aman Pande | - | Approved | Ejima M et al. 2021 [Efficacy of treatment with corticosteroids for fibrotic hypersensitivity pneumonitis: a propensity score‑matched cohort analysis](pdf/Ejima_2021.pdf) *BMC Pulmonary Medicine*
@@ -21,9 +22,8 @@ Karlo Toljan | - | Approved | Hersh C et al. 2020 [Effect of switching from nata
 
 1. John Barron
 2. Jesse Chen
-3. Ava Fan
-4. Lydia Mitchell
-5. Anya Nazarenko
+3. Lydia Mitchell
+4. Anya Nazarenko
 
 
 ## Submissions Still to Come (due 2024-02-06)
