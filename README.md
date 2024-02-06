@@ -21,11 +21,6 @@ Sriram Satyavolu | - | Approved | Webbe JWH et al. 2022 [Outcomes in relation to
 Akhil SG | - | Approved | Lysyakov M and Viswanathan S 2023 [Threatened by AI: Analyzing Users' Responses to the Introduction of AI in a Crowd-Sourcing Platform](pdf/Lysyakov_2023.pdf) *Information Systems Research*
 Karlo Toljan | - | Approved | Hersh C et al. 2020 [Effect of switching from natalizumab to moderate- vs high-efficacy DMT in clinical practice](pdf/Hersh_2020.pdf), with [supplement](pdf/Hersh_2020_supplement.pdf) *Neurology: Clinical Practice*
 
-## Submissions Dr. Love is reviewing
-
-1. Lydia Mitchell
-
-
 ## Submissions Still to Come (due 2024-02-06)
 
 1. Chris Benson
@@ -33,3 +28,4 @@ Karlo Toljan | - | Approved | Hersh C et al. 2020 [Effect of switching from nata
 3. Lent Mantshonyane
 4. Marie Masotya
 5. Morgan McLoughlin
+6. Lydia Mitchell
