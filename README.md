@@ -12,20 +12,25 @@ Anthony Orsino | - | Approved | Gebre G et al. 2023 [Can farmers’ climate chan
 Aman Pande | - | Approved | Ejima M et al. 2021 [Efficacy of treatment with corticosteroids for fibrotic hypersensitivity pneumonitis: a propensity score‑matched cohort analysis](pdf/Ejima_2021.pdf) *BMC Pulmonary Medicine*
 Justin Robinson | - | Approved | El-Hamamsy I et al. 2022 [Propensity-Matched Comparison of the Ross Procedure and Prosthetic Aortic Valve Replacement in Adults](pdf/El-Hamamsy_2022.pdf) *J Amer Coll Cardiology*
 Sam Rodgers-Melnick | - | Approved | Zeliadt SB et al. 2022 [Effectiveness of a whole health model of care emphasizing complementary and integrative health on reducing opioid use among patients with chronic pain](pdf/Zeliadt_2022.pdf), with [supplement](pdf/Zeliadt_2022_supplement.pdf) *BMC Health Services Research*
+Miza Salim Hammoud | - | Approved | Ouldali N et al. 2023 [Immunomodulatory Therapy for MIS-C](pdf/Ouldali_2023.pdf), with [supplement](pdf/Ouldali_2023_supplement.pdf) *Pediatrics*
+Akhil Sarangadharan Geetha | - | Approved | Lysyakov M and Viswanathan S 2023 [Threatened by AI: Analyzing Users' Responses to the Introduction of AI in a Crowd-
+Sourcing Platform](pdf/Lysyakov_2023.pdf) *Information Systems Research*
+Sriram Satyavolu | - | Approved | Webbe JWH et al. 2022 [Outcomes in relation to early parenteral nutrition use in preterm neonates born between 30 and 33 weeks' gestation: a propensity score matched observational study](pdf/Webbe_2022.pdf) *Arch Dis Child Fetal Neonatal Ed*
 Karlo Toljan | - | Approved | Hersh C et al. 2020 [Effect of switching from natalizumab to moderate- vs high-efficacy DMT in clinical practice](pdf/Hersh_2020.pdf), with [supplement](pdf/Hersh_2020_supplement.pdf) *Neurology: Clinical Practice*
+
+## Submissions Dr. Love is reviewing
+
+1. John Barron
+2. Jesse Chen
+3. Ava Fan
+4. Lydia Mitchell
+5. Anya Nazarenko
+
 
 ## Submissions Still to Come (due 2024-02-06)
 
-1. John Barron
-2. Chris Benson
-3. Jesse Chen
-4. Sid Dugar
-5. Ava Fan
-6. Lent Mantshonyane
-7. Marie Masotya
-8. Morgan McLoughlin
-9. Lydia Mitchell
-10. Anya Nazarenko
-11. Miza Salim Hammoud
-12. Geetha Sarangadharan
-13. Sriram Satyavolu
+1. Chris Benson
+2. Sid Dugar
+3. Lent Mantshonyane
+4. Marie Masotya
+5. Morgan McLoughlin
