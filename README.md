@@ -1,5 +1,11 @@
 # 500-osia-2024
 
+## Annnouncements
+
+1. On our Shared Google Drive, I have created a document called **OSIA Abstracts 2024**, which contains the abstract for each of our 22 papers, conveniently split into the 9 that will be presented in class, and the 13 that will be presented by video recording.
+2. The OSIA Abstracts 2024 document (as well as this document) also specifies which people will serve as second reader for the 9 to be given in class, and which will serve as second reader for the 13 that will be recorded.
+3. Your next step is to review the abstracts and register your preferences (from within the "second reader" group I have assigned you) using this Google Form, by 9 AM on Wednesday 2024-02-28.
+
 ## To Be Presented Live in Class 09 (2024-03-21)
 
 1st Reader | 2nd Reader |  Manuscript 
