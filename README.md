@@ -43,3 +43,32 @@ Ava Fan | - | Smolle MA et al. 2018 [Surgery for metachronous metastasis of soft
 Jesse Chen | - | Yang H et al. 2020 [Influence of tumor location on short- and long-term outcomes after laparoscopic surgery for rectal cancer: a propensity score matched cohort study](pdf/Yang_2020.pdf) *BMC Cancer*
 Sam Rodgers-Melnick | - | Zeliadt SB et al. 2022 [Effectiveness of a whole health model of care emphasizing complementary and integrative health on reducing opioid use among patients with chronic pain](pdf/Zeliadt_2022.pdf), with [supplement](pdf/Zeliadt_2022_supplement.pdf) *BMC Health Services Research*
 
+## Second Readers
+
+### I would like the following nine people to serve as second readers for **papers to be presented in classes 9-11 live**.
+
+1. Sara Alqahtani
+2. Chris Benson
+3. Jesse Chen
+4. Ava Fan
+5. Lent Mantshonyane
+6. Marie Masotya
+7. Lydia Mitchell
+8. Miza Salim Hammoud
+9. Aman Pande
+
+### The remaining 13 people will therefore serve as second readers for papers presented as recordings.
+
+1. Naji Ayyash
+2. John Barron
+3. Seth Bauer
+4. Sid Dugar
+5. Morgan McLoughlin
+6. Hala Nas
+7. Anya Nazarenko
+8. Anthony Orsino
+9. Sam Rodgers-Melnick
+10. Justin Robinson
+11. Sriram Satyavolu
+12. Akhil SG
+13. Karlo Toljan
