@@ -36,10 +36,10 @@ Seth Bauer | - | Xu J et al. 2023 [Timing of vasopressin initiation and mortalit
 1st Reader | 2nd Reader |  Manuscript 
 :-----------: | :-----------: | :-----------------------------------------------------------------------
 Lent Mantshonyane | - | Asare-Baah M et al. 2023 [Central Nervous System Tuberculosis: Risk Factors for Mortality in a Propensity Score–Matched Case-Control Study](pdf/Asare-Baah_2023.pdf) *Open Forum Infectious Diseases*
-Lydia Mitchell | - | Chen K et al. 2018 [Comparison of breast-conserving surgery and mastectomy in early breast cancer using observational data revisited: a propensity score-matched analysis](pdf/Chen_2018.pdf) with **supplement to come** *Science China: Life Sciences*
+Lydia Mitchell | - | Chen K et al. 2018 [Comparison of breast-conserving surgery and mastectomy in early breast cancer using observational data revisited: a propensity score-matched analysis](pdf/Chen_2018.pdf) with [supplement](pdf/Chen_2018_supplement.pdf) *Science China: Life Sciences*
 Sara Alqahtani | - | Chi S and Shanthikumar DM 2017 [Local Bias in Google Search and the Market Response around Earnings Announcements](pdf/Chi_2017.pdf) *The Accounting Review*
 Aman Pande | - | Ejima M et al. 2021 [Efficacy of treatment with corticosteroids for fibrotic hypersensitivity pneumonitis: a propensity score‑matched cohort analysis](pdf/Ejima_2021.pdf) with [supplement](pdf/Ejima_2021_supplement.pdf) *BMC Pulmonary Medicine*
-Justin Robinson | - | El-Hamamsy I et al. 2022 [Propensity-Matched Comparison of the Ross Procedure and Prosthetic Aortic Valve Replacement in Adults](pdf/El-Hamamsy_2022.pdf) with **supplement to come** *J Amer Coll Cardiology*
+Justin Robinson | - | El-Hamamsy I et al. 2022 [Propensity-Matched Comparison of the Ross Procedure and Prosthetic Aortic Valve Replacement in Adults](pdf/El-Hamamsy_2022.pdf) with [supplement](pdf/El-Hamamsy_2022_supplement.pdf) *J Amer Coll Cardiology*
 Anthony Orsino | - | Gebre G et al. 2023 [Can farmers’ climate change adaptation strategies ensure their food security? Evidence from Ethiopia](pdf/Gebre_2023.pdf) *Agrekon*
 Chris Benson | - | Lee K et al. 2024 [Potential beneficial effects of long‑term aspirin use on the prevalence of colorectal cancer: a population‑based study of the US Nationwide Inpatient Sample](pdf/Lee_2024.pdf), with [supplement](pdf/Lee_2024_supplement.pdf) *Cancer Causes & Control*
 Miza Salim Hammoud | - | Ouldali N et al. 2023 [Immunomodulatory Therapy for MIS-C](pdf/Ouldali_2023.pdf), with [supplement](pdf/Ouldali_2023_supplement.pdf) *Pediatrics*
