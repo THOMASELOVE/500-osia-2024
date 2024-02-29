@@ -10,25 +10,25 @@
 
 1st Reader | 2nd Reader |  Manuscript 
 :-----------: | :-----------: | :-----------------------------------------------------------------------
-Sid Dugar | - | Lan P et al. 2019 [Utilization of echocardiography during septic shock was associated with a decreased 28-day mortality: a propensity score-matched analysis of the MIMIC-III database](pdf/Lan_2019.pdf) *Annals of Translational Medicine*
-Hala Nas | - | Wang Q et al. 2022 [Adverse Events Following Limited Resection versus Stereotactic Body Radiation Therapy for Early Stage Lung Cancer](pdf/Wang_2022.pdf) *Annals American Thoracic Society*
-Sriram Satyavolu | - | Webbe JWH et al. 2022 [Outcomes in relation to early parenteral nutrition use in preterm neonates born between 30 and 33 weeks' gestation: a propensity score matched observational study](pdf/Webbe_2022.pdf) (pdf includes supplementary materials now) *Arch Dis Child Fetal Neonatal Ed*
+Sid Dugar | Jesse Chen | Lan P et al. 2019 [Utilization of echocardiography during septic shock was associated with a decreased 28-day mortality: a propensity score-matched analysis of the MIMIC-III database](pdf/Lan_2019.pdf) *Annals of Translational Medicine*
+Hala Nas | Aman Pande | Wang Q et al. 2022 [Adverse Events Following Limited Resection versus Stereotactic Body Radiation Therapy for Early Stage Lung Cancer](pdf/Wang_2022.pdf) *Annals American Thoracic Society*
+Sriram Satyavolu | Marie Masotya | Webbe JWH et al. 2022 [Outcomes in relation to early parenteral nutrition use in preterm neonates born between 30 and 33 weeks' gestation: a propensity score matched observational study](pdf/Webbe_2022.pdf) (pdf includes supplementary materials now) *Arch Dis Child Fetal Neonatal Ed*
 
 ## To Be Presented Live in Class 10 (2024-03-28)
 
 1st Reader | 2nd Reader |  Manuscript 
 :-----------: | :-----------: | :-----------------------------------------------------------------------
-Morgan McLoughlin | - | Cho M and Lee CH 2022 [Childhood Maltreatment and Repeat Offending in Juvenile Delinquents: A Propensity Score Matched-Control Study](pdf/Cho_2022.pdf), with [supplement](pdf/Cho_2022_supplement.pdf) *Youth & Society*
-Karlo Toljan | - | Hersh C et al. 2020 [Effect of switching from natalizumab to moderate- vs high-efficacy DMT in clinical practice](pdf/Hersh_2020.pdf), with [supplement](pdf/Hersh_2020_supplement.pdf) *Neurology: Clinical Practice*
-John Barron | - | Lehr CJ et al. 2020 [The impact of change in definition of increased-risk donors on survival after lung transplant](pdf/Lehr_2020.pdf), with [commentary](pdf/Lehr_2020_commentary.pdf) *J Thorac Cardiovasc Surg*
+Morgan McLoughlin | Lydia Mitchell | Cho M and Lee CH 2022 [Childhood Maltreatment and Repeat Offending in Juvenile Delinquents: A Propensity Score Matched-Control Study](pdf/Cho_2022.pdf), with [supplement](pdf/Cho_2022_supplement.pdf) *Youth & Society*
+Karlo Toljan | Miza Salim Hammoud | Hersh C et al. 2020 [Effect of switching from natalizumab to moderate- vs high-efficacy DMT in clinical practice](pdf/Hersh_2020.pdf), with [supplement](pdf/Hersh_2020_supplement.pdf) *Neurology: Clinical Practice*
+John Barron | Chris Benson | Lehr CJ et al. 2020 [The impact of change in definition of increased-risk donors on survival after lung transplant](pdf/Lehr_2020.pdf), with [commentary](pdf/Lehr_2020_commentary.pdf) *J Thorac Cardiovasc Surg*
 
 ## To Be Presented Live in Class 11 (2024-04-04)
 
 1st Reader | 2nd Reader |  Manuscript 
 :-----------: | :-----------: | :-----------------------------------------------------------------------
-Anya Nazarenko | - | Hynes DM 2023 [Risk of Suicide‑Related Outcomes After SARS‑COV‑2 Infection: Results from a Nationwide Observational Matched Cohort of US Veterans](pdf/Hynes_2023.pdf), with [supplement](pdf/Hynes_2023_supplement.pdf) *JGIM*
-Akhil SG | - | Lysyakov M and Viswanathan S 2023 [Threatened by AI: Analyzing Users' Responses to the Introduction of AI in a Crowd-Sourcing Platform](pdf/Lysyakov_2023.pdf) with [supplement](pdf/Lysyakov_2023_supplement.pdf) *Information Systems Research*
-Seth Bauer | - | Xu J et al. 2023 [Timing of vasopressin initiation and mortality in patients with septic shock: analysis of the MIMIC-III and MIMIC-IV databases](pdf/Xu_2023.pdf) *BMC Infectious Diseases*
+Anya Nazarenko | Lent Mantshonyane | Hynes DM 2023 [Risk of Suicide‑Related Outcomes After SARS‑COV‑2 Infection: Results from a Nationwide Observational Matched Cohort of US Veterans](pdf/Hynes_2023.pdf), with [supplement](pdf/Hynes_2023_supplement.pdf) *JGIM*
+Akhil SG | Sara Alqahtani | Lysyakov M and Viswanathan S 2023 [Threatened by AI: Analyzing Users' Responses to the Introduction of AI in a Crowd-Sourcing Platform](pdf/Lysyakov_2023.pdf) with [supplement](pdf/Lysyakov_2023_supplement.pdf) *Information Systems Research*
+Seth Bauer | Ava Fan | Xu J et al. 2023 [Timing of vasopressin initiation and mortality in patients with septic shock: analysis of the MIMIC-III and MIMIC-IV databases](pdf/Xu_2023.pdf) *BMC Infectious Diseases*
 
 ## To Be Presented via Video Recording 
 ### 1st reader submits 2024-03-28, 2nd reader submits 2024-04-04
