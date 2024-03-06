@@ -2,6 +2,9 @@
 
 ## To Be Presented Live in Class 09 (2024-03-21)
 
+- Sid, Hala and Sriram: post your 1st reader **slides** to our **Shared Drive** by 1 PM on Wednesday 2024-03-20.
+- Jesse, Aman, and Marie: post your 2nd reader **slides** to our **Shared Drive** by 7:30 AM on Thursday 2024-03-21.
+
 1st Reader | 2nd Reader |  Manuscript 
 :-----------: | :-----------: | :-----------------------------------------------------------------------
 Sid Dugar | Jesse Chen | Lan P et al. 2019 [Utilization of echocardiography during septic shock was associated with a decreased 28-day mortality: a propensity score-matched analysis of the MIMIC-III database](pdf/Lan_2019.pdf) *Annals of Translational Medicine*
@@ -9,6 +12,9 @@ Hala Nas | Aman Pande | Wang Q et al. 2022 [Adverse Events Following Limited Res
 Sriram Satyavolu | Marie Masotya | Webbe JWH et al. 2022 [Outcomes in relation to early parenteral nutrition use in preterm neonates born between 30 and 33 weeks' gestation: a propensity score matched observational study](pdf/Webbe_2022.pdf) (pdf includes supplementary materials now) *Arch Dis Child Fetal Neonatal Ed*
 
 ## To Be Presented Live in Class 10 (2024-03-28)
+
+- Morgan, Karlo and John: post your 1st reader **slides** to our **Shared Drive** by 1 PM on Wednesday 2024-03-27.
+- Lydia, Miza and Chris: post your 2nd reader **slides** to our **Shared Drive** by 7:30 AM on Thursday 2024-03-28.
 
 1st Reader | 2nd Reader |  Manuscript 
 :-----------: | :-----------: | :-----------------------------------------------------------------------
@@ -25,7 +31,9 @@ Akhil SG | Sara Alqahtani | Lysyakov M and Viswanathan S 2023 [Threatened by AI:
 Seth Bauer | Ava Fan | Xu J et al. 2023 [Timing of vasopressin initiation and mortality in patients with septic shock: analysis of the MIMIC-III and MIMIC-IV databases](pdf/Xu_2023.pdf) *BMC Infectious Diseases*
 
 ## To Be Presented via Video Recording 
-### 1st reader submits 2024-03-28, 2nd reader submits 2024-04-04
+
+- Each **1st reader** on the list below submits their 12-18 slides and video recording (.mp4, not to exceed 12 minutes) to our Shared Drive by 9 AM on 2024-03-28
+- Each **2nd reader** on the list below submits their 2-4 slides and video recording (.mp4, not to exceed 3 minutes) to our Shared Drive by 9 AM on 2024-04-04
 
 1st Reader | 2nd Reader |  Manuscript 
 :-----------: | :-----------: | :-----------------------------------------------------------------------
