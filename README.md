@@ -24,6 +24,9 @@ John Barron | Chris Benson | Lehr CJ et al. 2020 [The impact of change in defini
 
 ## To Be Presented Live in Class 11 (2024-04-04)
 
+- Anya, Akhil and Seth: post your 1st reader **slides** to our **Shared Drive** by 1 PM on Wednesday 2024-04-03.
+- Lent, Sara and Ava: post your 2nd reader **slides** to our **Shared Drive** by 7:30 AM on Thursday 2024-04-04.
+
 1st Reader | 2nd Reader |  Manuscript 
 :-----------: | :-----------: | :-----------------------------------------------------------------------
 Anya Nazarenko | Lent Mantshonyane | Hynes DM 2023 [Risk of Suicide‑Related Outcomes After SARS‑COV‑2 Infection: Results from a Nationwide Observational Matched Cohort of US Veterans](pdf/Hynes_2023.pdf), with [supplement](pdf/Hynes_2023_supplement.pdf) *JGIM*
