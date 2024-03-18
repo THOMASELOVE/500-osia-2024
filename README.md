@@ -2,12 +2,11 @@
 
 ## To Be Presented Live in Class 09 (2024-03-21)
 
-- Sid, Hala and Sriram: post your 1st reader **slides** to our **Shared Drive** by 1 PM on Wednesday 2024-03-20.
-- Jesse, Aman, and Marie: post your 2nd reader **slides** to our **Shared Drive** by 7:30 AM on Thursday 2024-03-21.
+- Hala and Sriram: post your 1st reader **slides** to our **Shared Drive** by 1 PM on Wednesday 2024-03-20.
+- Aman, and Marie: post your 2nd reader **slides** to our **Shared Drive** by 7:30 AM on Thursday 2024-03-21.
 
 1st Reader | 2nd Reader |  Manuscript 
 :-----------: | :-----------: | :-----------------------------------------------------------------------
-Sid Dugar | Jesse Chen | Lan P et al. 2019 [Utilization of echocardiography during septic shock was associated with a decreased 28-day mortality: a propensity score-matched analysis of the MIMIC-III database](pdf/Lan_2019.pdf) *Annals of Translational Medicine*
 Hala Nas | Aman Pande | Wang Q et al. 2022 [Adverse Events Following Limited Resection versus Stereotactic Body Radiation Therapy for Early Stage Lung Cancer](pdf/Wang_2022.pdf) *Annals American Thoracic Society*
 Sriram Satyavolu | Marie Masotya | Webbe JWH et al. 2022 [Outcomes in relation to early parenteral nutrition use in preterm neonates born between 30 and 33 weeks' gestation: a propensity score matched observational study](pdf/Webbe_2022.pdf) (pdf includes supplementary materials now) *Arch Dis Child Fetal Neonatal Ed*
 
@@ -53,4 +52,5 @@ Marie Masotya | Sam Rodgers-Melnick | Peterson JA et al. 2022 [Catastrophic Heal
 Ava Fan | Sriram Satyavolu | Smolle MA et al. 2018 [Surgery for metachronous metastasis of soft tissue sarcoma - A magnitude of benefit analysis using propensity score methods](pdf/Smolle_2018.pdf), with [supplement](pdf/Smolle_2018_supplement.pdf) *European J of Surgical Oncology*
 Jesse Chen | Naji Ayyash | Yang H et al. 2020 [Influence of tumor location on short- and long-term outcomes after laparoscopic surgery for rectal cancer: a propensity score matched cohort study](pdf/Yang_2020.pdf) *BMC Cancer*
 Sam Rodgers-Melnick | Justin Robinson | Zeliadt SB et al. 2022 [Effectiveness of a whole health model of care emphasizing complementary and integrative health on reducing opioid use among patients with chronic pain](pdf/Zeliadt_2022.pdf), with [supplement](pdf/Zeliadt_2022_supplement.pdf) *BMC Health Services Research*
+Sid Dugar | Jesse Chen | Lan P et al. 2019 [Utilization of echocardiography during septic shock was associated with a decreased 28-day mortality: a propensity score-matched analysis of the MIMIC-III database](pdf/Lan_2019.pdf) *Annals of Translational Medicine*
 
