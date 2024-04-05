@@ -17,14 +17,14 @@ Please feel encouraged to write about each of the two readers, and to refer to t
 
 ## Whose Presentations do I need to review?
 
-Here is the plan, including links to the PDFs of the papers being discussed. **Names in bold** indicate that the presentations are available on our Shared Drive.
+Here is the plan, including links to the PDFs of the papers being discussed. **Names in bold** indicate that the presentations are available on our Shared Drive in the **OSIA Recordings are Now Here** folder.
 
 Your Name | Please Review OSIA A <br /> 1st reader, 2nd reader, Author | Then Review OSIA B <br /> 1st reader, 2nd reader, Author
 :-----------: | :---------------------: | :-----------------:
-Sara Alqahtani | Lent and Orsino on [Asare-Baah 2023](https://github.com/THOMASELOVE/500-osia-2024/blob/main/pdf/Asare-Baah_2023.pdf) | Justin and John on [El-Hamamsy 2022](https://github.com/THOMASELOVE/500-osia-2024/blob/main/pdf/El-Hamamsy_2022.pdf)
-Naji Ayyash | Sara and Morgan on [Chi 2017](https://github.com/THOMASELOVE/500-osia-2024/blob/main/pdf/Chi_2017.pdf) | Aman and Seth on [Ejima 2021](https://github.com/THOMASELOVE/500-osia-2024/blob/main/pdf/Ejima_2021.pdf)
-John Barron | Sam and Justin on [Zeliadt 2022](https://github.com/THOMASELOVE/500-osia-2024/blob/main/pdf/Zeliadt_2022.pdf) | Miza and Karlo on [Ouldali 2023](https://github.com/THOMASELOVE/500-osia-2024/blob/main/pdf/Ouldali_2023.pdf)
-Seth Bauer | Jesse and Naji on [Yang 2020](https://github.com/THOMASELOVE/500-osia-2024/blob/main/pdf/Yang_2020.pdf) | Lydia and Hala on [Chen 2018](https://github.com/THOMASELOVE/500-osia-2024/blob/main/pdf/Chen_2018.pdf)
+Sara Alqahtani | **Lent then Orsino** on [Asare-Baah 2023](https://github.com/THOMASELOVE/500-osia-2024/blob/main/pdf/Asare-Baah_2023.pdf) | **Justin then John** on [El-Hamamsy 2022](https://github.com/THOMASELOVE/500-osia-2024/blob/main/pdf/El-Hamamsy_2022.pdf)
+Naji Ayyash | **Sara then Morgan** on [Chi 2017](https://github.com/THOMASELOVE/500-osia-2024/blob/main/pdf/Chi_2017.pdf) | **Aman then Seth** on [Ejima 2021](https://github.com/THOMASELOVE/500-osia-2024/blob/main/pdf/Ejima_2021.pdf)
+John Barron | **Sam then Justin** on [Zeliadt 2022](https://github.com/THOMASELOVE/500-osia-2024/blob/main/pdf/Zeliadt_2022.pdf) | **Miza then Karlo** on [Ouldali 2023](https://github.com/THOMASELOVE/500-osia-2024/blob/main/pdf/Ouldali_2023.pdf)
+Seth Bauer | **Jesse then Naji** on [Yang 2020](https://github.com/THOMASELOVE/500-osia-2024/blob/main/pdf/Yang_2020.pdf) | **Lydia and Hala** on [Chen 2018](https://github.com/THOMASELOVE/500-osia-2024/blob/main/pdf/Chen_2018.pdf)
 Chris Benson | Ava and Sriram on [Smolle 2018](https://github.com/THOMASELOVE/500-osia-2024/blob/main/pdf/Smolle_2018.pdf) | Marie and Sam on [Peterson 2022](https://github.com/THOMASELOVE/500-osia-2024/blob/main/pdf/Peterson_2022.pdf)
 Jesse Chen | Marie and Sam on [Peterson 2022](https://github.com/THOMASELOVE/500-osia-2024/blob/main/pdf/Peterson_2022.pdf) | Naji on [Ozer 2022](https://github.com/THOMASELOVE/500-osia-2024/blob/main/pdf/Ozer_2022.pdf)
 Sid Dugar | *See Dr. Love when you're back* | --
