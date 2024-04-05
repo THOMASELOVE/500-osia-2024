@@ -17,7 +17,7 @@ Please feel encouraged to write about each of the two readers, and to refer to t
 
 ## Whose Presentations do I need to review?
 
-Here is the plan, including links to the PDFs of the papers being discussed. **Names in bold** indicate that the presentations are available on our Shared Drive in the **OSIA Recordings are Now Here** folder.
+Here is the plan, including links to the PDFs of the papers being discussed. All of the recorded talks are found in our Shared Drive in the **osia** ... **OSIA Recorded Presentations** subfolder.
 
 Your Name | Please Review OSIA A <br /> 1st reader, 2nd reader, Author | Then Review OSIA B <br /> 1st reader, 2nd reader, Author
 :-----------: | :---------------------: | :-----------------:
